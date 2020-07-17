@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 ![mamanggarox](https://user-images.githubusercontent.com/42530153/87417251-126f4780-c5fa-11ea-9d37-322ec7d5f259.jpg)
 
 <!--
